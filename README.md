@@ -1,4 +1,7 @@
 # Marketing-Analysis
+<a target="_blank" href="https://colab.research.google.com/github/Eunchong1276/Marketing-Analysis/">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 마케팅 구매 특성 및 매출 분석
 * 분석 목표
 ```
