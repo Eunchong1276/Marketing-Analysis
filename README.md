@@ -17,6 +17,6 @@ Feature Engineering을 통한 파생 컬럼 생성, 데이터 전처리
 데이터 시각화
 여러 데이터프레임을 Join 하여 원하는 데이터 획득
 ```
+
 * 프로젝트 상세
-```
 https://colab.research.google.com/drive/1bTx_o5upNhgJUEPLG2YvmHQA-JGeCMaE?usp=drive_link
